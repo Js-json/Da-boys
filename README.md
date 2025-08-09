@@ -18,7 +18,9 @@ The Solution (that nobody asked for):
 We made a math problem.That's it.Yep.
 
 Technical Details
+
 Technologies/Components Used
+
 For Software:
 
 [Languages used]
