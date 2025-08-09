@@ -24,23 +24,36 @@ Technologies/Components Used
 For Software:
 
 [Languages used]
+
 Python
+
 [Frameworks used]
+
 [Libraries used]
+
 Tkinter
+
 random
+
 [Tools used]
+
 VSCode
+
 ChatGPT
+
 For Hardware:
+
 Nil
+
 Implementation
+
 For Software: VSCode,Python
 
 Run
 Open the .py file in VSCode in and execute.
 
 Project Documentation
+
 For Software:
 
 Screenshots
