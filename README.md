@@ -1,14 +1,19 @@
 Team Name: Astral Blaze
 Team Members
 Team Lead: Alan Vincent - VJCET,Vazhakulam
+
 Member 2: Joson Shajan - VJCET,Vazhakulam
+
 Project Description
+
 This project is a full-screen escape challenge game built with Tkinter, where players solve two math problems and click the exact coordinate matching their answers before time runs out. 
+
 It combines problem-solving, mouse precision, and a countdown timer to create an engaging, high-pressure puzzle.
-The Problem (that doesn't exist)
+
+The Problem (that doesn't exist):
 Tests your super duper important 8th grade math during important work.
 
-The Solution (that nobody asked for)
+The Solution (that nobody asked for):
 We made a math problem.That's it.Yep.
 
 Technical Details
