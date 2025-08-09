@@ -40,14 +40,14 @@ Open the .py file in VSCode in and execute.
 Project Documentation
 For Software:
 
-Screenshots (Add at least 3)
+Screenshots
+
 https://drive.google.com/file/d/1j0EndOGx-SRkCSMvTCn6A3Y8jwOC9UXu/view?usp=drive_link : Showcases basic UI.
 
 https://drive.google.com/file/d/1doOmxQUPk-UOu0knZKwFQQgbvWEYvver/view?usp=drive_link : Showcases response to incorrect input.
 
 https://drive.google.com/file/d/1iFYPUghuvUZkavKJgeySSQC_jUJxoJtT/view?usp=drive_link : Showcases response to correct input.
 
-Project Demo
 Video
 https://drive.google.com/file/d/1_4qRvke8vELh-36H7LzqGMzFjgwpkG86/view?usp=drive_link
 
